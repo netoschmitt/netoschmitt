@@ -2,7 +2,7 @@
 
 ### Seja bem vindo!
 
-## Agnelo Schmitt Neto - Tecnólogo em Análise e Desenvolvimento de Sistemas FSG
+## Agnelo Schmitt Neto 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/netoschmitt/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/N3toSchmitt)
@@ -21,5 +21,5 @@
 <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img align="center" alt="ng" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<br><br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netoschmitt&layout=compact)](https://github.com/netoschmitt/github-readme-stats)
