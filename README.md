@@ -8,7 +8,7 @@
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/N3toSchmitt)
 
 
-![Neto Schmitt GitHub stats](https://github-readme-stats.vercel.app/api?username=netoschmitt&show_icons=true&theme=tokyonight)
+<!-- ![Neto Schmitt GitHub stats](https://github-readme-stats.vercel.app/api?username=netoschmitt&show_icons=true&theme=tokyonight)*/ -->
 
 
 ### Tecnologias que estou utilizando atualmente.
